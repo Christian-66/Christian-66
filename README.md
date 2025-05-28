@@ -44,6 +44,13 @@ Este curso me está ayudando a mejorar en todo lo relacionado con la informátic
 
 ![Captura de pantalla](https://github.com/Christian-66/Christian-66/blob/main/Screenshot_20250330_103616_One%20UI%20Home.jpg)
 
+> *Imagen del video*
+
+![Captura de pantalla](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWzi85W3J_xsD0KzKrziGcztdUh303bl0U9Q&s)
+
 > *Vídeo (Cómo utilizar Github)*
 
 [Video](https://www.youtube.com/watch?v=44ziZ12rJwU)
+
+[Video](https://www.youtube.com/watch?v=3GymExBkKjE)
+
