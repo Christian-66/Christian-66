@@ -1,16 +1,20 @@
-## Hi there 👋
+## *Hola, mi nombre es Christian.*
 
-<!--
-**Christian-66/Christian-66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Soy estudiante del CIFP Cesar Manrique, y ahora estoy haciendo un curso formativo de Microsoft.
+Mis gustos son ver películas y jugar a videojuegos (normalmente de terror) además de correr y pasar el tiempo con mis amigos y familia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+> Comentario
+
+Lista:
+- Elemento
+  - Subelemento
+
+Lista número:
+1. Primero
+
+```bash
+bash
+```
+
