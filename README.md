@@ -28,3 +28,6 @@ bash
 
 ![Captura de pantalla](https://github.com/Christian-66/Christian-66/blob/main/Screenshot_20250330_103616_One%20UI%20Home.jpg)
 
+> Vídeo
+
+[Video](https://www.youtube.com/watch?v=44ziZ12rJwU)
