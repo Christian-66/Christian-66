@@ -28,8 +28,11 @@ Este curso me está ayudando a mejorar en todo lo relacionado con la informátic
 | Asignaturas | Nivel |
 |-------------|-------|
 | SSV         | Intermedio|
-| Ofimática         | Intermedio|
+| Ofimática         | Avanzado|
 | MJE         | Básico    |
+| Inglés         | Básico    |
+| ITK         | Intermedio    |
+| DHI         | Avanzado    |
 
 *Cosas que hay que tener en cuenta*
 
