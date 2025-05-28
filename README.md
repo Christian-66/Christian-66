@@ -5,29 +5,42 @@ Soy estudiante del CIFP Cesar Manrique, y ahora estoy haciendo un curso formativ
 Mis gustos son ver películas y jugar a videojuegos (normalmente de terror) además de correr y pasar el tiempo con mis amigos y familia.
 
 
-> Comentario
+> *Comentario*: Primera vez en Github
 
-Lista:
-- Elemento
-  - Subelemento
+*Lista:*
+- Realizar Diario
+  - (Todos los días)
+- Cuestionarios
+- Actividades del curso
 
-Lista número:
-1. Primero
+*Lista número:*
+1. Acceder a gdcan
+2. Entrar en mi diario
+3. Realizarlo
+4. Entregarlo
 
 ```bash
-bash
+Este curso me está ayudando a mejorar en todo lo relacionado con la informática
 ```
+
+*Nivel de asignaturas*
 
 | Asignaturas | Nivel |
 |-------------|-------|
 | SSV         | Intermedio|
+| Ofimática         | Intermedio|
+| MJE         | Básico    |
 
-- [ ] Casilla
+*Cosas que hay que tener en cuenta*
 
-> Inserción de imagen
+- [ ] Asistencia
+- [ ] Comportamiento
+- [ ] Trabajos
+
+> *Inserción de imagen (Usuario)*
 
 ![Captura de pantalla](https://github.com/Christian-66/Christian-66/blob/main/Screenshot_20250330_103616_One%20UI%20Home.jpg)
 
-> Vídeo
+> *Vídeo (Cómo utilizar Github)*
 
 [Video](https://www.youtube.com/watch?v=44ziZ12rJwU)
