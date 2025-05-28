@@ -1,3 +1,5 @@
+![Captura de pantalla](https://cdn-icons-png.flaticon.com/512/9972/9972270.png) 
+
 ## *Hola, mi nombre es Christian.*
 
 
@@ -43,7 +45,11 @@ Este curso me está ayudando a mejorar en todo lo relacionado con la informátic
 
 ![Captura de pantalla](https://github.com/Christian-66/Christian-66/blob/main/Screenshot_20250330_103616_One%20UI%20Home.jpg)
 
+
 > *Vídeo (Cómo utilizar Github)*
+
+![Captura de pantalla](https://i.blogs.es/518b29/youtube/450_1000.webp)
+
 
 [Video](https://www.youtube.com/watch?v=44ziZ12rJwU)
 
