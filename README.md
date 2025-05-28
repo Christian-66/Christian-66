@@ -7,13 +7,13 @@ Mis gustos son ver películas y jugar a videojuegos (normalmente de terror) adem
 
 > *Comentario*: Primera vez en Github
 
-*Lista:*
+*Lista: (Trabajos)*
 - Realizar Diario
   - (Todos los días)
 - Cuestionarios
 - Actividades del curso
 
-*Lista número:*
+*Lista número: (Como acceder)*
 1. Acceder a gdcan
 2. Entrar en mi diario
 3. Realizarlo
@@ -34,7 +34,7 @@ Este curso me está ayudando a mejorar en todo lo relacionado con la informátic
 | ITK         | Intermedio    |
 | DHI         | Avanzado    |
 
-*Cosas que hay que tener en cuenta*
+*Cosas que hay que tener en cuenta (Curso)*
 
 - [ ] Asistencia
 - [ ] Comportamiento
